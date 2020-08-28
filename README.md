@@ -7,10 +7,8 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/shoccho/shoccho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoccho&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" alt="Shoccho's GitHub Stats" />
-</a>
-
+![shoccho's github stats](https://github-readme-stats.vercel.app/api?username=shoccho&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoccho&layout=compact)
 
 
 - 🌱 I’m currently learning whatever I can find a good tutorial for
