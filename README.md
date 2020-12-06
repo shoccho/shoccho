@@ -3,7 +3,7 @@
 ## &#x1f4c8; GitHub Stats
 ![shoccho's github stats](https://github-readme-stats.vercel.app/api?username=shoccho&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoccho&layout=compact)
-
+[![Shoccho's github stats](https://github-readme-stats.vercel.app/api?username=shoccho)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning whatever I can find a good tutorial for
 - 📫 How to reach me: https://shoccho.github.io
