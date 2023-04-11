@@ -1,7 +1,7 @@
 ### Hi there this is shoccho 
 
 - Linux Enthusiast 🐧
-- Trying to learn rust 🦀
+- Trying to learn rust 🦀 ( not affiliated with rust foundation LOL )
 - and many more things
 
 <details>
