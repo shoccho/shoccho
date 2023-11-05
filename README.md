@@ -1,7 +1,7 @@
 ### Hi there this is shoccho 
 
 - Linux Enthusiast 🐧
-- Trying to learn <strike>go</strike> <strike>rust</strike>, <strike>zig</strike>, <strike>OpenGL</strike>, <strike>C</strike> ....... Nothing I guess 🤷‍♂️
+- Trying to learn <strike>go</strike> <strike>rust</strike>, <strike>zig</strike>, <strike>OpenGL</strike>, <strike>C</strike> ....... everything I guess 🤷‍♂️
 - and many more things
 
 <details>
